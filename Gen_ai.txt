@@ -1,0 +1,32 @@
+What is Generative AI? (For Kids!)
+
+Hi there! Let's talk about something called "Generative AI" (people also call it GenAI).
+
+WHAT DOES IT MEAN?
+"Generative" means "making new things."
+"AI" stands for "Artificial Intelligence," which means a computer that can think a little bit like a person.
+
+So Generative AI is a smart computer program that can MAKE new things, like:
+- Stories and poems
+- Pictures and drawings
+- Songs and music
+- Answers to your questions
+
+HOW DOES IT WORK?
+Imagine you read thousands and thousands of books, saw millions of pictures, and listened to tons of songs. You would start to notice patterns, like:
+- How sentences are put together
+- What colors go well in a picture
+- How music sounds nice
+
+Generative AI learns patterns the same way, but by looking at A LOT of examples on computers. Then, when you ask it to make something new, it uses what it learned to create it, kind of like how you might draw a cat after seeing many cats before.
+
+A SIMPLE EXAMPLE
+If you ask a Generative AI, "Write me a short story about a dragon," it will use everything it has learned about dragons and stories to write a brand new one just for you, that didn't exist before!
+
+IS IT MAGIC?
+Nope, it's not magic. It's just really smart math and lots of practice, similar to how you get better at drawing the more you practice.
+
+FUN FACT
+Claude (the AI you might be talking to right now) is an example of Generative AI!
+
+Remember: Generative AI is a helpful tool, kind of like a very knowledgeable friend, but it's always good to double check important facts with a grown-up or a book too.
